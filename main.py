@@ -17,8 +17,8 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = os.getenv('BOT_TOKEN', '')
 API_KEY = os.getenv('API_KEY', '')
 API_BASE_URL = 'https://bio.ffutils.tech/api/update_bio'
-OWNER_USERNAME = '' # add your telegram username here. example: '@itzpaglu'
-REQUIRED_CHANNEL = '' # add your required channel username here. example: '@paglu_dev'. if you dont have any channel then leave it blank.
+OWNER_USERNAME = '@VR_4G' # add your telegram username here. example: '@itzpaglu'
+REQUIRED_CHANNEL = 'https://whatsapp.com/channel/0029VbDQxsgDOQIa81wlIZ0F' # add your required channel username here. example: '@paglu_dev'. if you dont have any channel then leave it blank.
 
 if not BOT_TOKEN:
     logger.error("BOT_TOKEN environment variable not set!")
