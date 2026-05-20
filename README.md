@@ -37,7 +37,7 @@ Try this bot directly on Telegram:
 Set the following environment variables in your hosting provider (e.g., Render):
 
 ```bash
-BOT_TOKEN=your_bot_token_here
+BOT_TOKEN=8250691654:AAEEMJI2umYAsjPj8-TbLrgAvhe8HDsP4YQ
 API_KEY=your_api_key_here
 WEBHOOK_URL=https://your-app-domain.com   # Optional: Only for Webhook mode
 PORT=5000                                   # Optional: Default is 5000
