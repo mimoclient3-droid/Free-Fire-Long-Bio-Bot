@@ -80,10 +80,10 @@ PORT=5000                                   # Optional: Default is 5000
 ## 💛 Credits  
 
 <p align="center">
-  <a href="https://t.me/itzpaglu">
+  <a href="https://whatsapp.com/channel/0029VbDQxsgDOQIa81wlIZ0F">
     <img src="https://img.shields.io/badge/Owner-🔥%20@itzpaglu-pink?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="https://t.me/paglu_dev">
+  <a href="https://whatsapp.com/channel/0029VbDQxsgDOQIa81wlIZ0F">
     <img src="https://img.shields.io/badge/Channel-TARIKUL.dev-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
