@@ -1,4 +1,4 @@
-# Free Fire Bio Updater Bot 🎮
+# Free Fire Bio VORTEX AURA Bot 🎮
 
 A powerful Telegram bot designed to update **Garena Free Fire** profile bios instantly. Built with **Telebot (pyTelegramBotAPI)** and **Flask**, supporting both **Webhook** and **Polling** modes for high performance and reliability.
 
